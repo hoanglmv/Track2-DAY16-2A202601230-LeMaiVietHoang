@@ -1,0 +1,12 @@
+{
+    "data_load_time_sec": 2.0624,
+    "training_time_sec": 2.3342,
+    "best_iteration": 1,
+    "auc_roc": 0.951674,
+    "accuracy": 0.998841,
+    "f1_score": 0.720339,
+    "precision": 0.615942,
+    "recall": 0.867347,
+    "inference_latency_1_row_ms": 1.3464,
+    "inference_throughput_1000_rows_qps": 633196.16
+}
